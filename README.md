@@ -1,1 +1,1 @@
-# postgress-graphql-nodejs
+# postgres-graphql-nodejs
