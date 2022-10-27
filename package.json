@@ -27,5 +27,8 @@
   "bugs": {
     "url": "https://github.com/andr3ina/postgres-graphql-nodejs/issues"
   },
-  "homepage": "https://github.com/andr3ina/postgres-graphql-nodejs#readme"
+  "homepage": "https://github.com/andr3ina/postgres-graphql-nodejs#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.7"
+  }
 }
