@@ -1,0 +1,27 @@
+{
+  "devDependencies": {
+    "@types/node": "^18.11.5",
+    "prisma": "^4.5.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.8.4"
+  },
+  "dependencies": {
+    "@prisma/client": "^4.5.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.6.0",
+    "pg": "^8.8.0"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node server.js"
+  },
+  "name": "postgres-graphql-nodejs",
+  "version": "1.0.0",
+  "main": "db.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "heroku pg:psql postgresql-elliptical-09498 --app postgress-graphql-nodejs"
+}
