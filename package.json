@@ -14,6 +14,9 @@
   "description": "heroku pg:psql postgresql-elliptical-09498 --app postgress-graphql-nodejs",
   "version": "1.0.0",
   "main": "server.js",
+  "engines": {
+    "node": "18.9.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/andr3ina/postgres-graphql-nodejs.git"
