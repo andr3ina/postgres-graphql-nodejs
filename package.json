@@ -7,5 +7,21 @@
   "scripts": {
     "build": "tsc",
     "start": "node server.js"
-  }
+  },
+  "name": "postgres-graphql-nodejs",
+  "description": "heroku pg:psql postgresql-elliptical-09498 --app postgress-graphql-nodejs",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andr3ina/postgres-graphql-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andr3ina/postgres-graphql-nodejs/issues"
+  },
+  "homepage": "https://github.com/andr3ina/postgres-graphql-nodejs#readme"
 }
